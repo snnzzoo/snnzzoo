@@ -19,9 +19,10 @@
 
 <br>
 
-### ⚡ Fun fact:
+### ⚡ Interest:
 
-- I like paintings of Monet🎨
+- Monet paintings 🎨
+- Education 👩‍🏫
 
 
 <div id="header" align="center">
