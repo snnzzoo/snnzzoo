@@ -4,13 +4,18 @@
 	
 </div>
 
-<br><br><br>
+<br>
 
-#### 🌱 I’m currently learning web development
+🌱 I’m currently learning web development
+<br>
 
-#### 📫 How to reach me:
+### 📫 How to reach me:
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sunjoo-profile/)](https://www.linkedin.com/in/sunjoo-profile/)    [![Youtube Badge](https://img.shields.io/badge/Youtube-ff0000?style=flat-square&logo=youtube&link=https://www.youtube.com/channel/UCIGNwuoP-vpm8Pf8bh1brRw)](https://www.youtube.com/channel/UCIGNwuoP-vpm8Pf8bh1brRw) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjss1580@gmail.com)](mailto:tjss1580@gmail.com)
-#### ⚡ Fun fact:
+
+<br>
+
+### ⚡ Fun fact:
+
 - I like paintings of Monet🎨
 
 
