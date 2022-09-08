@@ -9,7 +9,7 @@
 🌱 I’m currently learning web development
 <br>
 
-### 📫 How to reach me:
+## 📫 How to reach me:
 
 - 📮 Sunjoo's email ...[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tjss1580@gmail.com)](mailto:tjss1580@gmail.com)
 
@@ -19,7 +19,7 @@
 
 <br>
 
-### ⚡ Interest:
+## ⚡ Interest:
 
 - Monet paintings 🎨
 - Education 👩‍🏫
