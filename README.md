@@ -6,7 +6,7 @@
 
 <br>
 
-🌱 I’m currently learning web development
+🌱 I’m currently learning ios app development
 
 <div id="header" align="center">
   <img src="https://www.moma.org/d/assets/W1siZiIsIjIwMTkvMDkvMTgvOTdlb2s2NHFral82NjZfMTk1OV9hX2NfQ0NDUl9GdWxsX3NpemVfSlBFRy5qcGciXSxbInAiLCJjb252ZXJ0IiwiLXF1YWxpdHkgOTAgLXJlc2l6ZSAyMDAweDY2N14gLWdyYXZpdHkgQ2VudGVyIC1jcm9wIDIwMDB4NjY3KzArMCJdXQ/666_1959_a-c_CCCR-Full_size_JPEG.jpg?sha=09c0ce29fef459c5"/>
