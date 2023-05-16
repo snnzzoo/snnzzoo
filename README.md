@@ -10,7 +10,7 @@
 
 
 
-🌱 I’m currently learning ios app development
+🍎 I’m currently learning at Apple Developer Academy @ POSTECH
 
 
 
