@@ -5,7 +5,7 @@
 </div> -->
 
 
-🍎 I’m currently learning at Apple Developer Academy @ POSTECH
+🍎 I’m currently at Apple Developer Academy @ POSTECH
 
 
 
